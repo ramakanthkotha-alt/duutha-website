@@ -4,4 +4,9 @@ description: "META DESCRIPTION"
 layout: ../layouts/BaseLayout.astro
 ---
 
-PASTE FINAL CONTENT HERE
+## Duutha Systems
+
+We design AI systems that reduce cognitive load,
+not add to it.
+
+## image format is: ![Sutra](/images/vaani.webp)
